@@ -3,6 +3,7 @@ Overview
 
 [![CircleCI](https://circleci.com/gh/IntelligentSoftwareSystems/Galois.svg?style=svg)](https://circleci.com/gh/IntelligentSoftwareSystems/Galois)
 [![Build Status](https://travis-ci.org/IntelligentSoftwareSystems/Galois.svg?branch=master)](https://travis-ci.org/IntelligentSoftwareSystems/Galois)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FGalois.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FGalois?ref=badge_shield)
 
 Galois is a C++ library designed to ease parallel programming, especially for
 applications with irregular parallelism (e.g., irregular amount of work in parallel
@@ -312,3 +313,7 @@ exit
 This will generate a file `debug-log.txt`, which you can send to the mailing
 list:[galois-users@utlists.utexas.edu](galois-users@utlists.utexas.edu) for
 further debugging or supply when opening a GitHub issue.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FGalois.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FGalois?ref=badge_large)
